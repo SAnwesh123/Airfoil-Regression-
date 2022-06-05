@@ -5,6 +5,6 @@ Werkzeug
 numpy
 pandas
 scipy
-scikit-learn
+scikit-sklearn
 matplotlib
 pickle
