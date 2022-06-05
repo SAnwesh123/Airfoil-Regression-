@@ -1,10 +1,10 @@
-﻿Flask
+Flask
 gunicorn
 Jinja2
 Werkzeug
 numpy
 pandas
 scipy
-sklearn
+scikit-learn
 matplotlib
 pickle
